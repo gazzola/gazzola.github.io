@@ -14,8 +14,8 @@ profile:
     <!-- <p>(en) Sao Paulo, SP, Brazil</p> -->
 
 news: false  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false #true  # includes a list of the newest posts
+selected_papers: false #true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 **Prof. Dr. Murilo Gleyson Gazzola** - **Doutor (Dr.)** em **Ciências** pela **Universidade de São Paulo (USP)** e **Mestre** em **Ciências** pela **USP**. Possui graduação bacharelado em Ciência da Computação (CC). Possui ampla experiência profissional e acadêmica, atuando como Cientista de Dados, **Líder Técnico** de Projetos de Procesamento de Língua Natural e Inteligência Artificial de grande porte, **Líder do Núcleo de Pesquisa** da área de Big Data e Analytics, professor de **Ciência de Dados e Inteligência Artificial** na **graduação** e **pós-graduação** do Hospital Israelita **Albert Einstein**. Também desempenhou o papel de professor assistente no Programa de Aperfeiçoamento ao Ensino (PAE) do ICMC-USP. Foi membro do comitê de seleção para **pós-doutorado no MIT** Fellow Fred Trajano. Participou como membro do Programa de Educação Tutorial de Ensino Superior, engajando-se em atividades de **ensino, pesquisa e extensão.** Desde a graduação, tem sido envolvido em diversos projetos de pesquisa na área das **Ciências da Computação.** Foi membro do grupo de sistemas interativos inteligentes, realizando pesquisas em Inteligência Artificial e Processamento de Linguagem Natural (NLP). Desempenhou o papel de membro e pesquisador do Núcleo Interinstitucional de Linguística Computacional (NILC) da USP, onde realizou pesquisas avançadas em Processamento de Língua Natural, Aprendizado de Máquina e Deep Learning. Também colaborou em projetos de destaque na área com o C4AI da USP. Sua trajetória profissional está focada nas áreas de **Ciência de Dados, Inteligência Artificial, Big Data na Saúde, Deep Learning e Processamento de Linguagem Natural (NLP).**
