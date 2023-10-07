@@ -1,9 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - gazzola
 
 github_repos:
-  - alshedivat/al-folio
+  - gazzola/corpus_readability_nlp_portuguese
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
