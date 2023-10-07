@@ -1,11 +1,11 @@
 github_users:
-  #- gazzola
+  - gazzola
 
-github_repos:
-  - gazzola/corpus_readability_nlp_portuguese
-  - gazzola/nanoGPT
-  - gazzola/multimodal
-  - gazzola/text-to-text-transfer-transformer
+#github_repos:
+#  - gazzola/corpus_readability_nlp_portuguese
+#  - gazzola/nanoGPT
+#  - gazzola/multimodal
+#  - gazzola/text-to-text-transfer-transformer
   #- twbs/bootstrap
   #- jekyll/jekyll
   #- jquery/jquery
