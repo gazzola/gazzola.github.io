@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>São Paulo - SP - </p>
+    <p>São Paulo - SP</p>
     <p>Brasil</p>
     <!-- <p>(en) Sao Paulo, SP, Brazil</p> -->
 
