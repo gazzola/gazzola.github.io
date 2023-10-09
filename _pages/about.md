@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>São Paulo - SP</p>
-    <p>Brasil</p>
+    <p> - Brasil</p>
     <!-- <p>(en) Sao Paulo, SP, Brazil</p> -->
 
 news: false  # includes a list of news items
