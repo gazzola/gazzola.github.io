@@ -89,8 +89,7 @@ Envelhecimento; AI; Ciência de Dados; Harvard; David Sinclair, PhD
 ```
 
 
-> "O envelhecimento é uma doença diz Dr. David Sinclair (Harvard) e com Ciência de Dados
-> e Inteligência Artificial podemos auxiliar as pesquisas e tratamentos para auxiliar na reversão do envelhecimento e no tratamento de doenças."
+> "Dr. David Sinclair, da Universidade de Harvard, argumenta que o envelhecimento pode ser visto como uma doença. Por meio da Ciência de Dados e da Inteligência Artificial, podemos contribuir significativamente para a pesquisa e desenvolvimento de tratamentos que visem reverter ou combater o processo de envelhecimento, incluindo a investigação das suas causas e fatores associados."
 >
 > Prof. Dr. Murilo Gleyson Gazzola
 
